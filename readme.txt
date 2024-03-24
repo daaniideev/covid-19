@@ -1,3 +1,7 @@
+Programming languages and libraries:
+  - SQL
+  - Tableau
+
 This small BI project contains the SQL script and Tableau visualization to gather data and analyze relevant information on how COVID has affected Spain. SQL Developer and Tableau are utilized for this purpose.
 
 These are the steps to view the project's step-by-step process:
